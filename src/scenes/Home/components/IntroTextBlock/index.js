@@ -34,7 +34,9 @@ const IntroTextBlock = (props) => {
           Geysir Horses
         </H1>
         <P>
-        The Icelandic horse is our passion.  We are a small family company, We offers you to experience our friendly Icelandic horses.  We offer you a range of riding tours for beginners and more experienced rider short or long tours, depending on what suits you best.
+          We are a small family company with a passion for the Icelandic horse.  
+          We offer a range of riding tours for beginners and more experienced riders 
+          in a magnificent landscape.
         </P>
 
         <RaisedButton
@@ -51,5 +53,3 @@ const IntroTextBlock = (props) => {
 };
 
 export default IntroTextBlock;
-
-const lorem = 'We at Geysir horses  offer you a short riding tours, Suitable for both first time rider and experienced.  This  tour is ideal for families and those how like to visit Iceland and ride our wonderful horses in amazing landscape.'

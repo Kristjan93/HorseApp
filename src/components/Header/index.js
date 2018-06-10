@@ -68,7 +68,7 @@ class Header extends React.Component {
               style={{ width: 72, height: 64, padding: 0 }}
               iconStyle={{ width: 26, height: 26 }}
               onTouchTap={this.handleToggle}
-            >
+              >
               <MenuIco />
             </IconButton>
           </NavBurgerButton>

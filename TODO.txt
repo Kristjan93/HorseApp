@@ -1,0 +1,10 @@
+* Change the theme of the website.  All together.
+
+* Set in the new logos.
+
+* Its not that much work i think to do this.
+  - Changing the material-ui framework.
+
+*Forsíða:
+ - Það er einn texti og hann þarf að laga.
+ - Mætti gera google maps betur.
